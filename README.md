@@ -20,3 +20,9 @@ Pickle words in dict
 ...     pickle.dump(eng_words_list, the_file)
 
 ```
+Usage
+
+```
+python spellcheck.py 'this is corect '
+misspelled word found: corect , possible correct word: correct
+```
